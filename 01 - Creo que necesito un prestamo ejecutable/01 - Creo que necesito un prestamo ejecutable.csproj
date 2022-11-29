@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_01___Creo_que_necesito_un_prestamo_ejecutable</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\01 - Creo que necesito un prestamo\01 - Creo que necesito un prestamo.csproj" />
+  </ItemGroup>
+
+</Project>

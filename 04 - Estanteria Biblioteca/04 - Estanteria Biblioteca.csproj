@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_04___Estanteria_Biblioteca</RootNamespace>
+  </PropertyGroup>
+
+</Project>
